@@ -1,2 +1,2 @@
 # Consultoria
-#aplicativo que direciona usuario para respecticas redes sociais para uma eventual consultoria
+#aplicativo que direciona usuario para respectivas redes sociais para uma eventual consultoria
